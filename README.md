@@ -6,7 +6,7 @@
 </head>
 <body>
     <header>
-        <h1>First Tutorial 2D GDScript only !</h1>
+        <h1>Godot Engine 2D GDScript only !</h1>
     </header>
     <section>
         <h2>🎮 À propos :</h2>
